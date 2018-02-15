@@ -532,7 +532,35 @@ const locales = {
     ],
     today: `Сегодня`,
     format: `D.M.Y`
-  }
+  },
+  /* Finnish (Finland) */
+  'fi_fi-FI': {
+    days: [
+      `Su`,
+      `Ma`,
+      `Ti`,
+      `Ke`,
+      `To`,
+      `Pe`,
+      `La`
+    ],
+    months: [
+      `Tammikuu`,
+      `Helmikuu`,
+      `Maaliskuu`,
+      `Huhtikuu`,
+      `Toukokuu`,
+      `Kesäkuu`,
+      `Heinäkuu`,
+      `Elokuu`,
+      `Syyskuu`,
+      `Lokakuu`,
+      `Marraskuu`,
+      `Joulukuu`
+    ],
+    today: `Tänään`,
+    format: `D.M.Y`
+  },
 };
 
 export default locales;
